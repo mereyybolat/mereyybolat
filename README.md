@@ -10,6 +10,7 @@
       <img src="https://img.shields.io/badge/matplotlib-11557c?style=flat"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pydantic?style=flat&logo=powerbi&logoColor=black"/>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
     </td>
   </tr>
