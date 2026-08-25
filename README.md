@@ -5,7 +5,7 @@
     <td><b>2024 – present</b></td>
     <td>
       <b>Python advanced</b><br>
-      ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/>
       <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/matplotlib-11557c?style=flat"/>
