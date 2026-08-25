@@ -1,6 +1,19 @@
 ## My Tech Stack roadmap
 
 <table>
+  <!-- Новый стек на Go -->
+  <tr>
+    <td><b>2026 – present</b></td>
+    <td>
+      <b>Go (Golang) development</b><br>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gin-008080?style=flat&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GORM-78C2AD?style=flat&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+  <!-- Твой текущий стек на Python -->
   <tr>
     <td><b>2024 – present</b></td>
     <td>
