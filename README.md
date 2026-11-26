@@ -1,7 +1,18 @@
 ## My Tech Stack roadmap
 
 <table>
-  
+  <tr>
+    <td><b>Oct 2026 – present</b></td>
+    <td>
+      <b>Java & Spring Ecosystem</b><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
   <tr>
     <td><b>2024 – present</b></td>
     <td>
